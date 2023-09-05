@@ -9,4 +9,7 @@ import (
 func main() {
 	fmt.Println(golang_dasar.SayHello())
 	fmt.Println(golang_dasar.SayHelloWorld())
+
+	fmt.Println(golang_dasar.SayNumberInteger())
+	fmt.Println(golang_dasar.SayNumberFloat())
 }
